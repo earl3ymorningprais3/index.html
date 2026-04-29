@@ -1,4 +1,4 @@
-I made you a single-file copy-paste website. Drop this whole thing into CodePen, Canva Embed, GitHub Pages, or an HTML module and it runs as-is. Replace the image URL and audio embed links later.
+
 
 ```html
 <!DOCTYPE html>
@@ -396,14 +396,4 @@ link.classList.add('active')
 </body>
 </html>
 ```
-
-It runs now. Later you can swap:
-
-- Your own producer photo
-- Real Spotify or SoundCloud links
-- Album covers
-- Your social links
-- Your own hero background image
-
-And no, being a musician instead of a coder is fine. Some of us hit pads, some of us wrestle CSS demons.
 
